@@ -1,250 +1,251 @@
-2019-04-13T02:50:58Z,ClashQuickplay,Convergence,24.0,16.0,True
-2019-04-13T02:35:46Z,ClashQuickplay,The Citadel,12.0,20.0,False
-2019-04-13T02:22:16Z,ControlQuickplay,Bannerfall,24.0,13.0,True
-2019-04-13T02:07:31Z,ClashQuickplay,Distant Shore,20.0,10.0,True
-2019-04-13T01:58:46Z,ControlQuickplay,Distant Shore,12.0,3.0,True
-2019-04-13T01:45:10Z,ClashQuickplay,The Burnout,19.0,17.0,True
-2019-04-13T01:16:35Z,ControlQuickplay,Retribution,14.0,14.0,False
-2019-04-13T01:04:29Z,ControlQuickplay,Radiant Cliffs,16.0,11.0,False
-2019-04-12T21:30:18Z,ControlQuickplay,Equinox,10.0,5.0,True
-2019-04-12T21:15:38Z,ClashQuickplay,Altar of Flame,5.0,5.0,False
-2019-04-12T21:12:35Z,ControlQuickplay,Vostok,15.0,10.0,True
-2019-04-12T12:45:09Z,ControlQuickplay,Bannerfall,18.0,8.0,True
-2019-04-12T12:30:59Z,ClashQuickplay,Wormhaven,12.0,13.0,True
-2019-04-12T12:17:35Z,ControlQuickplay,Convergence,8.0,17.0,False
-2019-04-09T02:43:35Z,Survival,Bannerfall,10.0,9.0,False
-2019-04-09T02:33:25Z,Countdown,Eternity,11.0,3.0,True
-2019-04-09T02:19:14Z,ClashCompetitive,The Dead Cliffs,15.0,18.0,True
-2019-04-09T02:07:32Z,Survival,Bannerfall,13.0,4.0,True
-2019-04-09T01:53:28Z,Countdown,Midtown,8.0,10.0,False
-2019-04-09T01:39:42Z,ClashCompetitive,The Dead Cliffs,18.0,13.0,True
-2019-04-07T17:15:32Z,ControlQuickplay,Firebase Echo,18.0,16.0,False
-2019-04-07T17:02:50Z,ClashQuickplay,Altar of Flame,13.0,16.0,False
-2019-04-07T16:45:42Z,ControlQuickplay,Equinox,14.0,8.0,True
-2019-04-07T16:39:48Z,Rumble,Convergence,11.0,12.0,False
-2019-04-05T21:42:17Z,ControlQuickplay,Radiant Cliffs,26.0,17.0,True
-2019-04-03T12:18:22Z,ControlQuickplay,Endless Vale,25.0,9.0,True
-2019-04-03T12:05:39Z,ClashQuickplay,Javelin-4,24.0,19.0,False
-2019-04-03T02:32:19Z,ControlQuickplay,Equinox,24.0,11.0,True
-2019-04-03T02:14:45Z,ControlCompetitive,The Burnout,10.0,13.0,False
-2019-04-03T02:01:50Z,ControlCompetitive,Wormhaven,25.0,9.0,True
-2019-04-03T01:49:45Z,Survival,Wormhaven,6.0,11.0,False
-2019-04-03T01:35:25Z,ClashCompetitive,Distant Shore,18.0,17.0,True
-2019-04-03T01:22:02Z,ControlCompetitive,Convergence,14.0,12.0,False
-2019-04-03T00:17:29Z,ClashCompetitive,Javelin-4,0.0,0.0,True
-2019-04-02T23:37:42Z,ClashCompetitive,Altar of Flame,0.0,0.0,True
-2019-04-02T23:15:56Z,Countdown,Vostok,6.0,6.0,False
-2019-04-02T22:52:36Z,Survival,Endless Vale,10.0,14.0,True
-2019-04-02T22:38:49Z,ClashCompetitive,The Burnout,16.0,20.0,True
-2019-04-02T22:27:19Z,ClashCompetitive,Javelin-4,20.0,14.0,True
-2019-04-02T01:43:30Z,ControlCompetitive,Endless Vale,10.0,14.0,False
-2019-04-02T01:35:04Z,Survival,Endless Vale,12.0,5.0,True
-2019-04-02T01:20:31Z,Survival,Solitude,11.0,13.0,True
-2019-04-01T23:18:13Z,Survival,Solitude,13.0,17.0,False
-2019-04-01T23:07:05Z,ControlCompetitive,Distant Shore,8.0,12.0,False
-2019-04-01T22:55:01Z,ClashCompetitive,Endless Vale,20.0,16.0,True
-2019-04-01T22:42:22Z,Survival,Distant Shore,14.0,12.0,False
-2019-04-01T21:24:13Z,ControlCompetitive,Distant Shore,10.0,14.0,False
-2019-03-29T02:54:54Z,Countdown,Meltdown,9.0,7.0,True
-2019-03-29T02:41:26Z,Countdown,Eternity,12.0,9.0,True
-2019-03-29T02:31:18Z,ControlQuickplay,The Dead Cliffs,12.0,6.0,True
-2019-03-29T02:19:05Z,ControlQuickplay,The Burnout,21.0,14.0,True
-2019-03-29T02:06:41Z,ControlQuickplay,Solitude,21.0,9.0,True
-2019-03-29T01:40:16Z,ControlQuickplay,Distant Shore,19.0,21.0,False
-2019-03-29T01:25:40Z,IronBannerControl,The Burnout,18.0,14.0,False
-2019-03-29T01:14:46Z,IronBannerControl,Distant Shore,21.0,8.0,True
-2019-03-29T00:46:35Z,Countdown,Radiant Cliffs,3.0,2.0,True
-2019-03-29T00:31:46Z,ControlCompetitive,Meltdown,17.0,17.0,True
-2019-03-29T00:10:23Z,IronBannerControl,The Dead Cliffs,17.0,12.0,False
-2019-03-28T23:52:47Z,ClashQuickplay,Equinox,16.0,16.0,False
-2019-03-28T23:39:24Z,ClashQuickplay,Vostok,25.0,18.0,False
-2019-03-28T22:13:04Z,Countdown,Eternity,8.0,9.0,False
-2019-03-28T21:56:39Z,Countdown,Meltdown,7.0,7.0,False
-2019-03-28T21:41:07Z,Countdown,Midtown,10.0,7.0,True
-2019-03-28T21:28:58Z,Survival,Javelin-4,10.0,5.0,True
-2019-03-28T21:17:34Z,ClashQuickplay,Endless Vale,20.0,8.0,True
-2019-03-28T17:23:30Z,ClashCompetitive,The Burnout,24.0,21.0,False
-2019-03-28T17:08:18Z,Countdown,Meltdown,9.0,10.0,False
-2019-03-28T16:56:36Z,Countdown,Vostok,15.0,3.0,True
-2019-03-28T16:39:53Z,ClashCompetitive,Javelin-4,19.0,20.0,False
-2019-03-28T16:28:05Z,Countdown,Pacifica,6.0,2.0,True
-2019-03-28T16:17:41Z,ControlCompetitive,Distant Shore,8.0,8.0,True
-2019-03-28T16:06:15Z,Rumble,Bannerfall,16.0,7.0,False
-2019-03-28T15:51:14Z,Rumble,Firebase Echo,14.0,14.0,False
-2019-03-28T15:41:11Z,Rumble,Bannerfall,11.0,12.0,False
-2019-03-28T03:05:08Z,Survival,The Burnout,14.0,5.0,True
-2019-03-28T02:48:23Z,ClashCompetitive,Distant Shore,12.0,12.0,True
-2019-03-28T02:32:24Z,Countdown,Emperor's Respite,4.0,6.0,False
-2019-03-28T02:19:21Z,Countdown,Meltdown,8.0,10.0,True
-2019-03-28T02:06:06Z,Countdown,Pacifica,4.0,8.0,False
-2019-03-27T23:21:28Z,Countdown,Midtown,6.0,4.0,True
-2019-03-27T23:07:07Z,Countdown,Eternity,6.0,9.0,False
-2019-03-27T22:55:14Z,Survival,The Dead Cliffs,14.0,14.0,False
-2019-03-27T22:41:33Z,ClashCompetitive,The Dead Cliffs,13.0,10.0,True
-2019-03-27T22:28:11Z,ControlCompetitive,The Burnout,19.0,14.0,True
-2019-03-27T22:14:21Z,ControlCompetitive,Distant Shore,20.0,11.0,True
-2019-03-27T21:56:38Z,Survival,Altar of Flame,12.0,7.0,True
-2019-03-27T21:36:17Z,ClashCompetitive,Altar of Flame,14.0,19.0,False
-2019-03-27T21:27:27Z,IronBannerControl,The Dead Cliffs,6.0,5.0,True
-2019-03-27T21:15:01Z,IronBannerControl,The Dead Cliffs,7.0,11.0,False
-2019-03-27T21:04:19Z,IronBannerControl,The Fortress,14.0,11.0,True
-2019-03-27T20:49:57Z,ClashQuickplay,Firebase Echo,20.0,10.0,True
-2019-03-27T03:17:00Z,IronBannerControl,Distant Shore,12.0,10.0,False
-2019-03-27T03:01:37Z,IronBannerControl,The Citadel,8.0,14.0,False
-2019-03-27T02:50:08Z,IronBannerControl,The Dead Cliffs,5.0,14.0,False
-2019-03-27T02:36:56Z,IronBannerControl,Retribution,11.0,15.0,False
-2019-03-27T02:24:03Z,IronBannerControl,Bannerfall,6.0,8.0,True
-2019-03-27T02:10:44Z,IronBannerControl,The Dead Cliffs,15.0,9.0,False
-2019-03-27T02:02:49Z,IronBannerControl,Convergence,11.0,3.0,True
-2019-03-27T01:40:46Z,IronBannerControl,The Burnout,16.0,11.0,True
-2019-03-27T01:28:42Z,IronBannerControl,Legion's Gulch,26.0,8.0,True
-2019-03-27T01:15:37Z,IronBannerControl,Midtown,13.0,10.0,False
-2019-03-27T00:57:07Z,IronBannerControl,Vostok,13.0,14.0,True
-2019-03-27T00:50:06Z,IronBannerControl,Endless Vale,2.0,5.0,False
-2019-03-27T00:37:40Z,IronBannerControl,Retribution,20.0,12.0,False
-2019-03-27T00:27:08Z,IronBannerControl,Gambler's Ruin,14.0,12.0,False
-2019-03-27T00:19:17Z,IronBannerControl,Wormhaven,10.0,0.0,True
-2019-03-27T00:10:08Z,IronBannerControl,The Burnout,13.0,6.0,True
-2019-03-26T23:56:47Z,IronBannerControl,Midtown,17.0,15.0,False
-2019-03-26T22:52:54Z,ControlCompetitive,Legion's Gulch,19.0,11.0,False
-2019-03-26T22:39:31Z,Countdown,Midtown,14.0,9.0,True
-2019-03-26T22:19:18Z,Survival,Javelin-4,16.0,15.0,True
-2019-03-26T22:08:07Z,Countdown,Vostok,12.0,2.0,True
-2019-03-26T21:54:16Z,Survival,Distant Shore,13.0,11.0,False
-2019-03-26T21:41:38Z,Countdown,Meltdown,8.0,8.0,False
-2019-03-21T01:05:11Z,Survival,Endless Vale,2.0,10.0,False
-2019-03-21T00:45:17Z,ClashQuickplay,Meltdown,15.0,16.0,True
-2019-03-21T00:33:09Z,ControlQuickplay,Javelin-4,22.0,11.0,False
-2019-03-20T23:21:44Z,ControlCompetitive,Meltdown,20.0,11.0,True
-2019-03-20T23:02:56Z,Survival,Wormhaven,13.0,10.0,True
-2019-03-20T22:55:08Z,Countdown,Radiant Cliffs,3.0,1.0,True
-2019-03-20T22:29:27Z,ClashCompetitive,The Dead Cliffs,23.0,15.0,False
-2019-03-20T22:18:17Z,Countdown,Radiant Cliffs,14.0,3.0,True
-2019-03-20T22:06:41Z,Survival,The Dead Cliffs,13.0,6.0,True
-2019-03-20T21:52:15Z,Survival,Endless Vale,19.0,8.0,True
-2019-03-20T21:31:13Z,ClashQuickplay,Legion's Gulch,3.0,1.0,False
-2019-03-20T00:42:35Z,Survival,Distant Shore,23.0,13.0,False
-2019-03-20T00:33:03Z,Countdown,Meltdown,8.0,7.0,False
-2019-03-19T23:40:36Z,ClashCompetitive,Javelin-4,18.0,17.0,False
-2019-03-19T23:20:55Z,Survival,Wormhaven,12.0,10.0,True
-2019-03-19T23:07:35Z,Countdown,Vostok,4.0,8.0,False
-2019-03-19T22:50:55Z,Countdown,Meltdown,13.0,6.0,True
-2019-03-19T22:38:46Z,ControlCompetitive,Endless Vale,17.0,10.0,True
-2019-03-19T22:24:50Z,ClashQuickplay,Radiant Cliffs,25.0,12.0,True
-2019-03-19T22:10:34Z,ControlCompetitive,Meltdown,13.0,17.0,False
-2019-03-19T21:58:44Z,Countdown,Eternity,7.0,6.0,False
-2019-03-19T21:44:07Z,Survival,Altar of Flame,12.0,9.0,True
-2019-03-19T21:29:24Z,Countdown,Midtown,11.0,5.0,True
-2019-03-19T03:30:01Z,ControlQuickplay,Radiant Cliffs,19.0,5.0,True
-2019-03-19T03:16:37Z,ClashQuickplay,Retribution,18.0,10.0,True
-2019-03-19T03:05:42Z,ControlCompetitive,Endless Vale,19.0,10.0,True
-2019-03-19T02:52:45Z,ClashCompetitive,Distant Shore,24.0,12.0,True
-2019-03-19T01:53:00Z,ClashQuickplay,The Dead Cliffs,20.0,11.0,True
-2019-03-18T22:12:41Z,ControlQuickplay,Gambler's Ruin,10.0,11.0,True
-2019-03-18T21:33:12Z,ClashQuickplay,The Burnout,12.0,7.0,True
-2019-03-18T21:19:51Z,ClashQuickplay,Midtown,13.0,7.0,True
-2019-03-18T21:12:28Z,ControlQuickplay,Meltdown,10.0,0.0,True
-2019-03-18T21:04:09Z,ControlQuickplay,Firebase Echo,12.0,4.0,True
-2019-03-18T20:56:49Z,ControlQuickplay,Legion's Gulch,4.0,1.0,True
-2019-03-18T01:50:04Z,ClashQuickplay,Solitude,25.0,15.0,False
-2019-03-18T01:39:55Z,ControlQuickplay,The Fortress,16.0,6.0,True
-2019-03-18T01:29:18Z,ControlQuickplay,The Dead Cliffs,13.0,10.0,True
-2019-03-18T00:26:08Z,ControlQuickplay,The Burnout,23.0,11.0,False
-2019-03-18T00:14:42Z,ControlQuickplay,Retribution,16.0,9.0,True
-2019-03-18T00:02:21Z,ControlQuickplay,Pacifica,18.0,5.0,True
-2019-03-17T23:46:34Z,ClashQuickplay,Javelin-4,24.0,9.0,True
-2019-03-17T23:38:33Z,Showdown,Javelin-4,12.0,4.0,True
-2019-03-17T23:30:47Z,Showdown,Convergence,10.0,4.0,True
-2019-03-17T22:50:20Z,ClashQuickplay,The Citadel,25.0,12.0,True
-2019-03-17T22:39:08Z,ControlQuickplay,Altar of Flame,17.0,8.0,True
-2019-03-17T22:25:05Z,Countdown,Radiant Cliffs,16.0,8.0,False
-2019-03-17T22:08:58Z,ControlCompetitive,The Dead Cliffs,17.0,11.0,False
-2019-03-17T21:52:45Z,ControlCompetitive,Convergence,16.0,13.0,False
-2019-03-17T21:28:53Z,ClashCompetitive,Endless Vale,34.0,13.0,True
-2019-03-14T00:08:45Z,Countdown,Midtown,10.0,1.0,True
-2019-03-13T23:57:32Z,ControlCompetitive,Distant Shore,11.0,7.0,True
-2019-03-13T23:45:41Z,ControlCompetitive,Meltdown,16.0,13.0,False
-2019-03-13T23:33:37Z,Countdown,Vostok,10.0,6.0,False
-2019-03-13T23:04:33Z,ControlQuickplay,Bannerfall,21.0,13.0,True
-2019-03-13T22:52:54Z,ControlQuickplay,Midtown,19.0,5.0,True
-2019-03-13T22:41:31Z,ClashQuickplay,The Dead Cliffs,18.0,11.0,True
-2019-03-13T22:27:30Z,ClashQuickplay,Vostok,23.0,17.0,False
-2019-03-13T22:15:24Z,ControlQuickplay,Solitude,15.0,14.0,False
-2019-03-13T22:00:33Z,ClashQuickplay,Radiant Cliffs,25.0,13.0,True
-2019-03-13T21:47:24Z,ClashCompetitive,Javelin-4,14.0,18.0,False
-2019-03-13T21:34:36Z,ClashCompetitive,The Burnout,16.0,17.0,False
-2019-03-13T21:03:16Z,ClashQuickplay,Pacifica,20.0,6.0,True
-2019-03-13T02:18:16Z,Countdown,Meltdown,9.0,3.0,True
-2019-03-13T02:04:36Z,ClashCompetitive,Endless Vale,24.0,15.0,True
-2019-03-13T01:51:13Z,ClashQuickplay,Legion's Gulch,18.0,16.0,False
-2019-03-13T01:38:40Z,ClashQuickplay,The Burnout,20.0,17.0,False
-2019-03-12T11:57:25Z,Rumble,Altar of Flame,8.0,15.0,False
-2019-03-08T03:18:57Z,ClashQuickplay,Vostok,8.0,17.0,False
-2019-03-07T03:41:52Z,Countdown,Vostok,8.0,7.0,True
-2019-03-07T03:27:29Z,ClashCompetitive,The Dead Cliffs,24.0,16.0,True
-2019-03-07T03:15:15Z,Countdown,Midtown,4.0,8.0,False
-2019-03-07T02:51:17Z,ControlCompetitive,Convergence,10.0,12.0,False
-2019-03-07T02:42:15Z,Countdown,Meltdown,4.0,2.0,True
-2019-03-07T02:26:21Z,ControlCompetitive,Distant Shore,25.0,13.0,True
-2019-03-07T02:12:34Z,ControlCompetitive,Wormhaven,14.0,14.0,False
-2019-03-07T01:58:28Z,ControlQuickplay,Javelin-4,17.0,18.0,False
-2019-03-07T01:47:57Z,Rumble,Wormhaven,2.0,5.0,False
-2019-03-07T01:44:39Z,ClashQuickplay,Gambler's Ruin,6.0,7.0,False
-2019-03-07T01:32:21Z,ControlQuickplay,The Citadel,15.0,12.0,False
-2019-03-06T23:10:14Z,ClashQuickplay,Meltdown,31.0,13.0,True
-2019-02-22T23:11:18Z,IronBannerControl,Legion's Gulch,14.0,10.0,False
-2019-02-22T22:59:32Z,IronBannerControl,The Dead Cliffs,5.0,11.0,False
-2019-02-22T02:58:19Z,IronBannerControl,Gambler's Ruin,3.0,9.0,False
-2019-02-22T02:45:14Z,IronBannerControl,Legion's Gulch,19.0,12.0,False
-2019-02-22T02:32:28Z,IronBannerControl,Convergence,15.0,9.0,True
-2019-02-22T02:24:47Z,IronBannerControl,Wormhaven,8.0,3.0,True
-2019-02-22T02:13:27Z,IronBannerControl,Retribution,10.0,13.0,False
-2019-02-22T02:02:37Z,IronBannerControl,Vostok,9.0,13.0,False
-2019-02-21T22:49:44Z,IronBannerControl,Retribution,15.0,14.0,False
-2019-02-21T03:29:27Z,IronBannerControl,Bannerfall,9.0,11.0,False
-2019-02-21T03:17:59Z,IronBannerControl,Gambler's Ruin,17.0,14.0,True
-2019-02-21T03:06:34Z,IronBannerControl,Bannerfall,11.0,8.0,True
-2019-02-21T02:58:46Z,IronBannerControl,The Citadel,4.0,7.0,False
-2019-02-21T02:50:22Z,IronBannerControl,Equinox,7.0,6.0,False
-2019-02-21T02:41:59Z,IronBannerControl,Firebase Echo,3.0,6.0,False
-2019-02-18T01:29:07Z,ClashQuickplay,Convergence,20.0,14.0,False
-2019-02-17T23:00:59Z,ControlQuickplay,Firebase Echo,15.0,14.0,False
-2019-02-16T00:14:48Z,CrimsonDoubles,The Burnout,16.0,8.0,True
-2019-02-16T00:01:23Z,ClashQuickplay,Retribution,10.0,21.0,False
-2019-02-15T05:45:49Z,ControlCompetitive,Solitude,10.0,20.0,True
-2019-02-15T05:34:52Z,Survival,The Burnout,6.0,6.0,True
-2019-02-15T05:14:18Z,Survival,Convergence,14.0,14.0,True
-2019-02-15T04:56:43Z,ControlCompetitive,Legion's Gulch,7.0,13.0,False
-2019-02-15T04:36:22Z,Survival,Bannerfall,22.0,10.0,True
-2019-02-15T04:22:50Z,ControlQuickplay,Radiant Cliffs,11.0,18.0,True
-2019-02-15T04:08:07Z,ClashQuickplay,Solitude,15.0,16.0,False
-2019-02-15T03:55:12Z,ClashQuickplay,Endless Vale,16.0,14.0,True
-2019-02-15T01:59:58Z,ControlQuickplay,Wormhaven,5.0,5.0,True
-2019-02-15T01:45:37Z,ClashQuickplay,Bannerfall,13.0,17.0,False
-2019-02-15T01:34:14Z,ControlQuickplay,Vostok,2.0,6.0,False
-2019-02-14T22:47:06Z,ClashQuickplay,Wormhaven,21.0,17.0,False
-2019-02-14T22:33:27Z,ControlQuickplay,Retribution,22.0,14.0,False
-2019-02-14T19:41:11Z,ControlQuickplay,Radiant Cliffs,19.0,13.0,True
-2019-02-14T19:28:42Z,ControlQuickplay,The Burnout,17.0,18.0,False
-2019-02-14T04:18:20Z,ClashQuickplay,Pacifica,16.0,17.0,False
-2019-02-14T04:04:46Z,ClashQuickplay,Meltdown,21.0,16.0,True
-2019-02-14T03:51:25Z,ControlQuickplay,Wormhaven,13.0,12.0,True
-2019-02-13T23:36:51Z,CrimsonDoubles,Meltdown,14.0,12.0,True
-2019-02-13T22:56:19Z,ClashQuickplay,Convergence,6.0,15.0,False
-2019-02-13T22:40:32Z,ClashQuickplay,Bannerfall,17.0,19.0,False
-2019-02-13T22:26:30Z,ControlQuickplay,Altar of Flame,11.0,19.0,False
-2019-02-13T02:58:37Z,ControlQuickplay,Javelin-4,13.0,15.0,True
-2019-02-13T02:41:49Z,CrimsonDoubles,Solitude,6.0,15.0,True
-2018-11-05T23:01:54Z,ClashQuickplay,Midtown,19.0,14.0,True
-2018-11-05T22:52:11Z,ClashQuickplay,Endless Vale,2.0,10.0,False
-2018-11-05T22:40:04Z,ClashQuickplay,Altar of Flame,17.0,10.0,True
-2018-10-25T23:44:58Z,Countdown,Radiant Cliffs,2.0,7.0,False
-2018-10-25T23:35:55Z,ControlCompetitive,Wormhaven,5.0,10.0,False
-2018-10-25T23:17:16Z,Survival,Altar of Flame,10.0,5.0,True
-2018-10-25T03:34:59Z,ClashQuickplay,Radiant Cliffs,25.0,5.0,True
-2018-10-25T02:37:18Z,ClashQuickplay,Endless Vale,22.0,14.0,False
-2018-10-24T22:22:30Z,Survival,Wormhaven,10.0,9.0,True
-2018-10-23T19:35:41Z,Survival,Wormhaven,13.0,10.0,True
-2018-10-23T19:22:05Z,ClashQuickplay,Pacifica,32.0,12.0,True
-2018-10-23T15:38:58Z,IronBannerControl,Equinox,8.0,7.0,True
-2018-10-23T15:27:19Z,IronBannerControl,Gambler's Ruin,12.0,9.0,False
+2019-04-28T21:38:12Z,3912915884,QP Control,Retribution,8.0,1.0,True
+2019-04-28T21:30:03Z,3912896465,QP Control,Equinox,15.0,3.0,True
+2019-04-28T21:16:26Z,3912874280,QP Clash,Retribution,27.0,20.0,True
+2019-04-28T21:03:57Z,3912835354,QP Clash,Endless Vale,22.0,15.0,True
+2019-04-28T20:50:38Z,3912791416,QP Control,Javelin-4,12.0,9.0,True
+2019-04-28T20:36:15Z,3912756945,QP Clash,Javelin-4,21.0,12.0,True
+2019-04-28T01:32:45Z,3910164401,QP Control,The Citadel,17.0,14.0,False
+2019-04-28T01:19:48Z,3910128001,QP Clash,The Burnout,15.0,15.0,False
+2019-04-28T01:06:03Z,3910097707,QP Clash,Solitude,11.0,15.0,False
+2019-04-27T19:46:23Z,3909192222,IB Control,Vostok,18.0,13.0,False
+2019-04-27T19:36:47Z,3909148386,IB Control,The Citadel,4.0,7.0,False
+2019-04-27T19:25:18Z,3909120940,IB Control,Midtown,12.0,16.0,False
+2019-04-27T19:10:50Z,3909076936,IB Control,Vostok,18.0,12.0,True
+2019-04-27T18:56:38Z,3909035950,IB Control,Wormhaven,20.0,15.0,True
+2019-04-27T18:44:28Z,3908989935,IB Control,Radiant Cliffs,10.0,12.0,True
+2019-04-27T18:31:21Z,3908952415,IB Control,Vostok,14.0,14.0,True
+2019-04-27T18:16:11Z,3908906589,QP Clash,The Citadel,19.0,10.0,True
+2019-04-27T18:03:01Z,3908864248,QP Control,Javelin-4,21.0,17.0,True
+2019-04-27T17:49:35Z,3908817875,QP Clash,Midtown,24.0,10.0,True
+2019-04-27T17:37:32Z,3908774452,QP Control,Meltdown,18.0,11.0,True
+2019-04-27T17:23:30Z,3908736590,QP Clash,Midtown,15.0,17.0,False
+2019-04-27T17:12:18Z,3908689739,QP Control,Distant Shore,15.0,6.0,True
+2019-04-25T21:55:13Z,3903624038,IB Control,Meltdown,19.0,10.0,False
+2019-04-25T21:43:54Z,3903595703,IB Control,Gambler's Ruin,8.0,14.0,False
+2019-04-25T21:35:30Z,3903569207,IB Control,Distant Shore,3.0,5.0,False
+2019-04-25T21:23:21Z,3903552163,IB Control,Solitude,14.0,8.0,True
+2019-04-25T21:14:31Z,3903524328,IB Control,Wormhaven,12.0,5.0,True
+2019-04-24T00:23:00Z,3898841710,IB Control,The Citadel,16.0,14.0,False
+2019-04-24T00:13:30Z,3898806002,IB Control,Solitude,9.0,6.0,True
+2019-04-23T23:59:40Z,3898782771,IB Control,Legion's Gulch,20.0,17.0,False
+2019-04-23T23:32:38Z,3898718634,Survival,The Burnout,13.0,15.0,False
+2019-04-23T23:18:32Z,3898679860,Countdown,Eternity,8.0,9.0,False
+2019-04-23T23:05:04Z,3898641748,Survival,Solitude,8.0,10.0,True
+2019-04-23T22:35:34Z,3898567365,IB Control,Wormhaven,14.0,12.0,False
+2019-04-23T22:21:07Z,3898528528,IB Control,Firebase Echo,20.0,8.0,True
+2019-04-22T23:10:23Z,3895902129,QP Clash,Legion's Gulch,20.0,13.0,True
+2019-04-22T22:56:27Z,3895869754,QP Clash,The Dead Cliffs,21.0,19.0,False
+2019-04-22T22:42:42Z,3895834212,QP Clash,Meltdown,30.0,9.0,True
+2019-04-22T22:29:00Z,3895799389,QP Clash,The Burnout,26.0,12.0,True
+2019-04-22T22:15:46Z,3895767586,QP Clash,Javelin-4,25.0,12.0,True
+2019-04-22T22:00:57Z,3895732911,QP Clash,Altar of Flame,18.0,14.0,True
+2019-04-18T21:10:09Z,3880926596,QP Control,Midtown,8.0,15.0,False
+2019-04-16T22:27:17Z,3874644226,Countdown,Vostok,6.0,8.0,False
+2019-04-15T22:34:14Z,3871463081,Survival,The Dead Cliffs,18.0,16.0,True
+2019-04-15T22:21:37Z,3871412056,Comp Control,The Burnout,23.0,10.0,True
+2019-04-15T22:08:15Z,3871375726,Countdown,Eternity,6.0,7.0,True
+2019-04-15T21:53:36Z,3871331283,Comp Control,Convergence,18.0,8.0,True
+2019-04-13T02:50:58Z,3860635176,QP Clash,Convergence,24.0,16.0,True
+2019-04-13T02:35:46Z,3860584144,QP Clash,The Citadel,12.0,20.0,False
+2019-04-13T02:22:16Z,3860534654,QP Control,Bannerfall,24.0,13.0,True
+2019-04-13T02:07:31Z,3860484299,QP Clash,Distant Shore,20.0,10.0,True
+2019-04-13T01:58:46Z,3860437079,QP Control,Distant Shore,12.0,3.0,True
+2019-04-13T01:45:10Z,3860406119,QP Clash,The Burnout,19.0,17.0,True
+2019-04-13T01:16:35Z,3860312359,QP Control,Retribution,14.0,14.0,False
+2019-04-13T01:04:29Z,3860266217,QP Control,Radiant Cliffs,16.0,11.0,False
+2019-04-12T21:30:18Z,3859510272,QP Control,Equinox,10.0,5.0,True
+2019-04-12T21:15:38Z,3859455969,QP Clash,Altar of Flame,5.0,5.0,False
+2019-04-12T21:12:35Z,3859434016,QP Control,Vostok,15.0,10.0,True
+2019-04-12T12:45:09Z,3857916898,QP Control,Bannerfall,18.0,8.0,True
+2019-04-12T12:30:59Z,3857893021,QP Clash,Wormhaven,12.0,13.0,True
+2019-04-12T12:17:35Z,3857869567,QP Control,Convergence,8.0,17.0,False
+2019-04-09T02:43:35Z,3846989601,Survival,Bannerfall,10.0,9.0,False
+2019-04-09T02:33:25Z,3846957865,Countdown,Eternity,11.0,3.0,True
+2019-04-09T02:19:14Z,3846929421,Comp Clash,The Dead Cliffs,15.0,18.0,True
+2019-04-09T02:07:32Z,3846890485,Survival,Bannerfall,13.0,4.0,True
+2019-04-09T01:53:28Z,3846858095,Countdown,Midtown,8.0,10.0,False
+2019-04-09T01:39:42Z,3846817893,Comp Clash,The Dead Cliffs,18.0,13.0,True
+2019-04-07T17:15:32Z,3841691264,QP Control,Firebase Echo,18.0,16.0,False
+2019-04-07T17:02:50Z,3841636548,QP Clash,Altar of Flame,13.0,16.0,False
+2019-04-07T16:45:42Z,3841569471,QP Control,Equinox,14.0,8.0,True
+2019-04-07T16:39:48Z,3841539280,Rumble,Convergence,11.0,12.0,False
+2019-04-05T21:42:17Z,3833786119,QP Control,Radiant Cliffs,26.0,17.0,True
+2019-04-03T12:18:22Z,3825332997,QP Control,Endless Vale,25.0,9.0,True
+2019-04-03T12:05:39Z,3825315648,QP Clash,Javelin-4,24.0,19.0,False
+2019-04-03T02:32:19Z,3824269564,QP Control,Equinox,24.0,11.0,True
+2019-04-03T02:14:45Z,3824198911,Comp Control,The Burnout,10.0,13.0,False
+2019-04-03T02:01:50Z,3824166712,Comp Control,Wormhaven,25.0,9.0,True
+2019-04-03T01:49:45Z,3824120401,Survival,Wormhaven,6.0,11.0,False
+2019-04-03T01:35:25Z,3824080797,Comp Clash,Distant Shore,18.0,17.0,True
+2019-04-03T01:22:02Z,3824029843,Comp Control,Convergence,14.0,12.0,False
+2019-04-03T00:17:29Z,3823808720,Comp Clash,Javelin-4,0.0,0.0,True
+2019-04-02T23:37:42Z,3823667053,Comp Clash,Altar of Flame,0.0,0.0,True
+2019-04-02T23:15:56Z,3823578265,Countdown,Vostok,6.0,6.0,False
+2019-04-02T22:52:36Z,3823504822,Survival,Endless Vale,10.0,14.0,True
+2019-04-02T22:38:49Z,3823460909,Comp Clash,The Burnout,16.0,20.0,True
+2019-04-02T22:27:19Z,3823410846,Comp Clash,Javelin-4,20.0,14.0,True
+2019-04-02T01:43:30Z,3820644299,Comp Control,Endless Vale,10.0,14.0,False
+2019-04-02T01:35:04Z,3820617198,Survival,Endless Vale,12.0,5.0,True
+2019-04-02T01:20:31Z,3820594994,Survival,Solitude,11.0,13.0,True
+2019-04-01T23:18:13Z,3820259409,Survival,Solitude,13.0,17.0,False
+2019-04-01T23:07:05Z,3820212433,Comp Control,Distant Shore,8.0,12.0,False
+2019-04-01T22:55:01Z,3820181982,Comp Clash,Endless Vale,20.0,16.0,True
+2019-04-01T22:42:22Z,3820145342,Survival,Distant Shore,14.0,12.0,False
+2019-04-01T21:24:13Z,3819937111,Comp Control,Distant Shore,10.0,14.0,False
+2019-03-29T02:54:54Z,3805093130,Countdown,Meltdown,9.0,7.0,True
+2019-03-29T02:41:26Z,3805065558,Countdown,Eternity,12.0,9.0,True
+2019-03-29T02:31:18Z,3805026605,QP Control,The Dead Cliffs,12.0,6.0,True
+2019-03-29T02:19:05Z,3804996635,QP Control,The Burnout,21.0,14.0,True
+2019-03-29T02:06:41Z,3804967001,QP Control,Solitude,21.0,9.0,True
+2019-03-29T01:40:16Z,3804893956,QP Control,Distant Shore,19.0,21.0,False
+2019-03-29T01:25:40Z,3804843411,IB Control,The Burnout,18.0,14.0,False
+2019-03-29T01:14:46Z,3804814230,IB Control,Distant Shore,21.0,8.0,True
+2019-03-29T00:46:35Z,3804717483,Countdown,Radiant Cliffs,3.0,2.0,True
+2019-03-29T00:31:46Z,3804691470,Comp Control,Meltdown,17.0,17.0,True
+2019-03-29T00:10:23Z,3804624210,IB Control,The Dead Cliffs,17.0,12.0,False
+2019-03-28T23:52:47Z,3804576786,QP Clash,Equinox,16.0,16.0,False
+2019-03-28T23:39:24Z,3804536233,QP Clash,Vostok,25.0,18.0,False
+2019-03-28T22:13:04Z,3804279313,Countdown,Eternity,8.0,9.0,False
+2019-03-28T21:56:39Z,3804221623,Countdown,Meltdown,7.0,7.0,False
+2019-03-28T21:41:07Z,3804175918,Countdown,Midtown,10.0,7.0,True
+2019-03-28T21:28:58Z,3804131371,Survival,Javelin-4,10.0,5.0,True
+2019-03-28T21:17:34Z,3804098110,QP Clash,Endless Vale,20.0,8.0,True
+2019-03-28T17:23:30Z,3803426100,Comp Clash,The Burnout,24.0,21.0,False
+2019-03-28T17:08:18Z,3803389512,Countdown,Meltdown,9.0,10.0,False
+2019-03-28T16:56:36Z,3803349497,Countdown,Vostok,15.0,3.0,True
+2019-03-28T16:39:53Z,3803314921,Comp Clash,Javelin-4,19.0,20.0,False
+2019-03-28T16:28:05Z,3803272721,Countdown,Pacifica,6.0,2.0,True
+2019-03-28T16:17:41Z,3803253082,Comp Control,Distant Shore,8.0,8.0,True
+2019-03-28T16:06:15Z,3803221312,Rumble,Bannerfall,16.0,7.0,False
+2019-03-28T15:51:14Z,3803193857,Rumble,Firebase Echo,14.0,14.0,False
+2019-03-28T15:41:11Z,3803166641,Rumble,Bannerfall,11.0,12.0,False
+2019-03-28T03:05:08Z,3801913319,Survival,The Burnout,14.0,5.0,True
+2019-03-28T02:48:23Z,3801873791,Comp Clash,Distant Shore,12.0,12.0,True
+2019-03-28T02:32:24Z,3801820535,Countdown,Emperor's Respite,4.0,6.0,False
+2019-03-28T02:19:21Z,3801791302,Countdown,Meltdown,8.0,10.0,True
+2019-03-28T02:06:06Z,3801740124,Countdown,Pacifica,4.0,8.0,False
+2019-03-27T23:21:28Z,3801213600,Countdown,Midtown,6.0,4.0,True
+2019-03-27T23:07:07Z,3801176373,Countdown,Eternity,6.0,9.0,False
+2019-03-27T22:55:14Z,3801129527,Survival,The Dead Cliffs,14.0,14.0,False
+2019-03-27T22:41:33Z,3801087187,Comp Clash,The Dead Cliffs,13.0,10.0,True
+2019-03-27T22:28:11Z,3801048112,Comp Control,The Burnout,19.0,14.0,True
+2019-03-27T22:14:21Z,3800995956,Comp Control,Distant Shore,20.0,11.0,True
+2019-03-27T21:56:38Z,3800937315,Survival,Altar of Flame,12.0,7.0,True
+2019-03-27T21:36:17Z,3800871609,Comp Clash,Altar of Flame,14.0,19.0,False
+2019-03-27T21:27:27Z,3800822542,IB Control,The Dead Cliffs,6.0,5.0,True
+2019-03-27T21:15:01Z,3800780912,IB Control,The Dead Cliffs,7.0,11.0,False
+2019-03-27T21:04:19Z,3800753036,IB Control,The Fortress,14.0,11.0,True
+2019-03-27T20:49:57Z,3800716980,QP Clash,Firebase Echo,20.0,10.0,True
+2019-03-27T03:17:00Z,3798372020,IB Control,Distant Shore,12.0,10.0,False
+2019-03-27T03:01:37Z,3798329766,IB Control,The Citadel,8.0,14.0,False
+2019-03-27T02:50:08Z,3798289678,IB Control,The Dead Cliffs,5.0,14.0,False
+2019-03-27T02:36:56Z,3798249776,IB Control,Retribution,11.0,15.0,False
+2019-03-27T02:24:03Z,3798199034,IB Control,Bannerfall,6.0,8.0,True
+2019-03-27T02:10:44Z,3798158152,IB Control,The Dead Cliffs,15.0,9.0,False
+2019-03-27T02:02:49Z,3798116222,IB Control,Convergence,11.0,3.0,True
+2019-03-27T01:40:46Z,3798050493,IB Control,The Burnout,16.0,11.0,True
+2019-03-27T01:28:42Z,3798015002,IB Control,Legion's Gulch,26.0,8.0,True
+2019-03-27T01:15:37Z,3797963212,IB Control,Midtown,13.0,10.0,False
+2019-03-27T00:57:07Z,3797894985,IB Control,Vostok,13.0,14.0,True
+2019-03-27T00:50:06Z,3797855696,IB Control,Endless Vale,2.0,5.0,False
+2019-03-27T00:37:40Z,3797833221,IB Control,Retribution,20.0,12.0,False
+2019-03-27T00:27:08Z,3797787679,IB Control,Gambler's Ruin,14.0,12.0,False
+2019-03-27T00:19:17Z,3797736459,IB Control,Wormhaven,10.0,0.0,True
+2019-03-27T00:10:08Z,3797715758,IB Control,The Burnout,13.0,6.0,True
+2019-03-26T23:56:47Z,3797679606,IB Control,Midtown,17.0,15.0,False
+2019-03-26T22:52:54Z,3797439745,Comp Control,Legion's Gulch,19.0,11.0,False
+2019-03-26T22:39:31Z,3797387839,Countdown,Midtown,14.0,9.0,True
+2019-03-26T22:19:18Z,3797335393,Survival,Javelin-4,16.0,15.0,True
+2019-03-26T22:08:07Z,3797250360,Countdown,Vostok,12.0,2.0,True
+2019-03-26T21:54:16Z,3797225514,Survival,Distant Shore,13.0,11.0,False
+2019-03-26T21:41:38Z,3797154136,Countdown,Meltdown,8.0,8.0,False
+2019-03-21T01:05:11Z,3772055020,Survival,Endless Vale,2.0,10.0,False
+2019-03-21T00:45:17Z,3771998230,QP Clash,Meltdown,15.0,16.0,True
+2019-03-21T00:33:09Z,3771958238,QP Control,Javelin-4,22.0,11.0,False
+2019-03-20T23:21:44Z,3771695380,Comp Control,Meltdown,20.0,11.0,True
+2019-03-20T23:02:56Z,3771642159,Survival,Wormhaven,13.0,10.0,True
+2019-03-20T22:55:08Z,3771574633,Countdown,Radiant Cliffs,3.0,1.0,True
+2019-03-20T22:29:27Z,3771516437,Comp Clash,The Dead Cliffs,23.0,15.0,False
+2019-03-20T22:18:17Z,3771457242,Countdown,Radiant Cliffs,14.0,3.0,True
+2019-03-20T22:06:41Z,3771417284,Survival,The Dead Cliffs,13.0,6.0,True
+2019-03-20T21:52:15Z,3771368519,Survival,Endless Vale,19.0,8.0,True
+2019-03-20T21:31:13Z,3771281933,QP Clash,Legion's Gulch,3.0,1.0,False
+2019-03-20T00:42:35Z,3767916213,Survival,Distant Shore,23.0,13.0,False
+2019-03-20T00:33:03Z,3767854469,Countdown,Meltdown,8.0,7.0,False
+2019-03-19T23:40:36Z,3767636491,Comp Clash,Javelin-4,18.0,17.0,False
+2019-03-19T23:20:55Z,3767581160,Survival,Wormhaven,12.0,10.0,True
+2019-03-19T23:07:35Z,3767492748,Countdown,Vostok,4.0,8.0,False
+2019-03-19T22:50:55Z,3767426055,Countdown,Meltdown,13.0,6.0,True
+2019-03-19T22:38:46Z,3767358798,Comp Control,Endless Vale,17.0,10.0,True
+2019-03-19T22:24:50Z,3767305912,QP Clash,Radiant Cliffs,25.0,12.0,True
+2019-03-19T22:10:34Z,3767227277,Comp Control,Meltdown,13.0,17.0,False
+2019-03-19T21:58:44Z,3767167495,Countdown,Eternity,7.0,6.0,False
+2019-03-19T21:44:07Z,3767114489,Survival,Altar of Flame,12.0,9.0,True
+2019-03-19T21:29:24Z,3767055366,Countdown,Midtown,11.0,5.0,True
+2019-03-19T03:30:01Z,3764106558,QP Control,Radiant Cliffs,19.0,5.0,True
+2019-03-19T03:16:37Z,3764057107,QP Clash,Retribution,18.0,10.0,True
+2019-03-19T03:05:42Z,3764011480,Comp Control,Endless Vale,19.0,10.0,True
+2019-03-19T02:52:45Z,3763970692,Comp Clash,Distant Shore,24.0,12.0,True
+2019-03-19T01:53:00Z,3763740885,QP Clash,The Dead Cliffs,20.0,11.0,True
+2019-03-18T22:12:41Z,3762775108,QP Control,Gambler's Ruin,10.0,11.0,True
+2019-03-18T21:33:12Z,3762577727,QP Clash,The Burnout,12.0,7.0,True
+2019-03-18T21:19:51Z,3762540727,QP Clash,Midtown,13.0,7.0,True
+2019-03-18T21:12:28Z,3762472100,QP Control,Meltdown,10.0,0.0,True
+2019-03-18T21:04:09Z,3762433875,QP Control,Firebase Echo,12.0,4.0,True
+2019-03-18T20:56:49Z,3762401116,QP Control,Legion's Gulch,4.0,1.0,True
+2019-03-18T01:50:04Z,3759401867,QP Clash,Solitude,25.0,15.0,False
+2019-03-18T01:39:55Z,3759346576,QP Control,The Fortress,16.0,6.0,True
+2019-03-18T01:29:18Z,3759304872,QP Control,The Dead Cliffs,13.0,10.0,True
+2019-03-18T00:26:08Z,3759049924,QP Control,The Burnout,23.0,11.0,False
+2019-03-18T00:14:42Z,3759002952,QP Control,Retribution,16.0,9.0,True
+2019-03-18T00:02:21Z,3758956685,QP Control,Pacifica,18.0,5.0,True
+2019-03-17T23:46:34Z,3758892094,QP Clash,Javelin-4,24.0,9.0,True
+2019-03-17T23:38:33Z,3758835859,Showdown,Javelin-4,12.0,4.0,True
+2019-03-17T23:30:47Z,3758800338,Showdown,Convergence,10.0,4.0,True
+2019-03-17T22:50:20Z,3758646886,QP Clash,The Citadel,25.0,12.0,True
+2019-03-17T22:39:08Z,3758580683,QP Control,Altar of Flame,17.0,8.0,True
+2019-03-17T22:25:05Z,3758530734,Countdown,Radiant Cliffs,16.0,8.0,False
+2019-03-17T22:08:58Z,3758442380,Comp Control,The Dead Cliffs,17.0,11.0,False
+2019-03-17T21:52:45Z,3758373290,Comp Control,Convergence,16.0,13.0,False
+2019-03-17T21:28:53Z,3758258137,Comp Clash,Endless Vale,34.0,13.0,True
+2019-03-14T00:08:45Z,3737323587,Countdown,Midtown,10.0,1.0,True
+2019-03-13T23:57:32Z,3737271564,Comp Control,Distant Shore,11.0,7.0,True
+2019-03-13T23:45:41Z,3737231477,Comp Control,Meltdown,16.0,13.0,False
+2019-03-13T23:33:37Z,3737175153,Countdown,Vostok,10.0,6.0,False
+2019-03-13T23:04:33Z,3737060436,QP Control,Bannerfall,21.0,13.0,True
+2019-03-13T22:52:54Z,3736990700,QP Control,Midtown,19.0,5.0,True
+2019-03-13T22:41:31Z,3736937841,QP Clash,The Dead Cliffs,18.0,11.0,True
+2019-03-13T22:27:30Z,3736885307,QP Clash,Vostok,23.0,17.0,False
+2019-03-13T22:15:24Z,3736822316,QP Control,Solitude,15.0,14.0,False
+2019-03-13T22:00:33Z,3736753279,QP Clash,Radiant Cliffs,25.0,13.0,True
+2019-03-13T21:47:24Z,3736688810,Comp Clash,Javelin-4,14.0,18.0,False
+2019-03-13T21:34:36Z,3736632621,Comp Clash,The Burnout,16.0,17.0,False
+2019-03-13T21:03:16Z,3736486398,QP Clash,Pacifica,20.0,6.0,True
+2019-03-13T02:18:16Z,3732851688,Countdown,Meltdown,9.0,3.0,True
+2019-03-13T02:04:36Z,3732792528,Comp Clash,Endless Vale,24.0,15.0,True
+2019-03-13T01:51:13Z,3732730864,QP Clash,Legion's Gulch,18.0,16.0,False
+2019-03-13T01:38:40Z,3732662143,QP Clash,The Burnout,20.0,17.0,False
+2019-03-12T11:57:25Z,3728690228,Rumble,Altar of Flame,8.0,15.0,False
+2019-03-08T03:18:57Z,3707926216,QP Clash,Vostok,8.0,17.0,False
+2019-03-07T03:41:52Z,3703944356,Countdown,Vostok,8.0,7.0,True
+2019-03-07T03:27:29Z,3703906032,Comp Clash,The Dead Cliffs,24.0,16.0,True
+2019-03-07T03:15:15Z,3703855878,Countdown,Midtown,4.0,8.0,False
+2019-03-07T02:51:17Z,3703763250,Comp Control,Convergence,10.0,12.0,False
+2019-03-07T02:42:15Z,3703719683,Countdown,Meltdown,4.0,2.0,True
+2019-03-07T02:26:21Z,3703675365,Comp Control,Distant Shore,25.0,13.0,True
+2019-03-07T02:12:34Z,3703625303,Comp Control,Wormhaven,14.0,14.0,False
+2019-03-07T01:58:28Z,3703570601,QP Control,Javelin-4,17.0,18.0,False
+2019-03-07T01:47:57Z,3703525936,Rumble,Wormhaven,2.0,5.0,False
+2019-03-07T01:44:39Z,3703519647,QP Clash,Gambler's Ruin,6.0,7.0,False
+2019-03-07T01:32:21Z,3703477570,QP Control,The Citadel,15.0,12.0,False
+2019-03-06T23:10:14Z,3702909866,QP Clash,Meltdown,31.0,13.0,True
+2019-02-22T23:11:18Z,3661729970,IB Control,Legion's Gulch,14.0,10.0,False
+2019-02-22T22:59:32Z,3661692638,IB Control,The Dead Cliffs,5.0,11.0,False
+2019-02-22T02:58:19Z,3659029155,IB Control,Gambler's Ruin,3.0,9.0,False
+2019-02-22T02:45:14Z,3659007031,IB Control,Legion's Gulch,19.0,12.0,False
+2019-02-22T02:32:28Z,3658970257,IB Control,Convergence,15.0,9.0,True
+2019-02-22T02:24:47Z,3658934294,IB Control,Wormhaven,8.0,3.0,True
+2019-02-22T02:13:27Z,3658908023,IB Control,Retribution,10.0,13.0,False
+2019-02-22T02:02:37Z,3658879775,IB Control,Vostok,9.0,13.0,False
+2019-02-21T22:49:44Z,3658310570,IB Control,Retribution,15.0,14.0,False
+2019-04-15T21:12:01Z,3871205122,Comp Control,The Burnout,14.0,11.0,False

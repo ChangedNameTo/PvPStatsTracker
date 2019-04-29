@@ -35,42 +35,42 @@ maps_dict = {
 }
 
 modes_dict = {
-    15 : "CrimsonDoubles",
+    15 : "Crimson Doubles",
     19 : "IronBanner",
-    25 : "AllMayhem",
+    25 : "Mayhem",
     31 : "Supremacy",
     32 : "PrivateMatchesAll",
     37 : "Survival",
     38 : "Countdown",
-    39 : "TrialsOfTheNine",
-    41 : "TrialsCountdown",
-    42 : "TrialsSurvival",
-    43 : "IronBannerControl",
-    44 : "IronBannerClash",
-    45 : "IronBannerSupremacy",
+    39 : "Trials",
+    41 : "Trials Countdown",
+    42 : "Trials Survival",
+    43 : "IB Control",
+    44 : "IB Clash",
+    45 : "IB Supremacy",
     48 : "Rumble",
-    49 : "AllDoubles",
+    49 : "All Doubles",
     50 : "Doubles",
-    51 : "PrivateMatchesClash",
-    52 : "PrivateMatchesControl",
-    53 : "PrivateMatchesSupremacy",
-    54 : "PrivateMatchesCountdown",
-    55 : "PrivateMatchesSurvival",
-    56 : "PrivateMatchesMayhem",
-    57 : "PrivateMatchesRumble",
+    51 : "PM Clash",
+    52 : "PM Control",
+    53 : "PM Supremacy",
+    54 : "PM Countdown",
+    55 : "PM Survival",
+    56 : "PM Mayhem",
+    57 : "PM Rumble",
     59 : "Showdown",
     60 : "Lockdown",
     61 : "Scorched",
     62 : "ScorchedTeam",
     65 : "Breakthrough",
     67 : "Salvage",
-    68 : "IronBannerSalvage",
-    69 : "PvPCompetitive",
-    70 : "PvPQuickplay",
-    71 : "ClashQuickplay",
-    72 : "ClashCompetitive",
-    73 : "ControlQuickplay",
-    74 : "ControlCompetitive"
+    68 : "IB Salvage",
+    69 : "Comp",
+    70 : "Quickplay",
+    71 : "QP Clash",
+    72 : "Comp Clash",
+    73 : "QP Control",
+    74 : "Comp Control"
 }
 
 # Get user id by PSN
@@ -78,24 +78,58 @@ search_user = '/Destiny2/SearchDestinyPlayer/' + mem_type + '/' + user + '/'
 r           = json.loads(requests.get(base_url + search_user, headers = headers).content)
 
 d2_membership_id = r['Response'][0]['membershipId']
-# print(d2_membership_id)
 
 profile   = '/Destiny2/' + mem_type + '/Profile/' + d2_membership_id + '/?components=100'
 r         = json.loads(requests.get(base_url + profile, headers = headers).content)
-character = r['Response']['profile']['data']['characterIds'][1]
-# print(character)
+characters = r['Response']['profile']['data']['characterIds']
 
-matches = '/Destiny2/' + mem_type + '/Account/' + d2_membership_id + '/Character/' + character + '/Stats/Activities/?mode=5&count=250'
-r       = json.loads(requests.get(base_url + matches, headers = headers).content)
+instances = []
 
-with open('matches.csv', 'w') as csvfile:
+for character in characters:
+    matches = '/Destiny2/' + mem_type + '/Account/' + d2_membership_id + '/Character/' + character + '/Stats/Activities/?mode=5&count=250'
+    # print(requests.get(base_url + matches, headers = headers).content)
+    r       = json.loads(requests.get(base_url + matches, headers = headers).content)
+    if 'activities' in r['Response']:
+        with open('matches.csv', 'a') as csvfile:
+            output = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+            for match in r['Response']['activities']:
+                date     = match['period']
+                mode     = modes_dict[match['activityDetails']['mode']]
+                map_name = maps_dict[match['activityDetails']['referenceId']]
+                instance = match['activityDetails']['instanceId']
+                kills    = match['values']['kills']['basic']['value']
+                deaths   = match['values']['deaths']['basic']['value']
+                win      = (match['values']['standing']['basic']['displayValue'] == "Victory")
+
+                instances.append(instance)
+
+                output.writerow((date, instance, mode, map_name, kills, deaths, win))
+
+with open('teammates.csv', 'a') as csvfile:
     output = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
-    for match in r['Response']['activities']:
-        date = match['period']
-        mode = modes_dict[match['activityDetails']['mode']]
-        map_name = maps_dict[match['activityDetails']['referenceId']]
-        kills = match['values']['kills']['basic']['value']
-        deaths = match['values']['deaths']['basic']['value']
-        win = (match['values']['standing']['basic']['displayValue'] == "Victory")
 
-        output.writerow((date, mode, map_name, kills, deaths, win))
+    for instance in instances:
+        activity_url = '/Destiny2/Stats/PostGameCarnageReport/' + instance
+        # print(requests.get(base_url + activity_url, headers = headers).content)
+        r = json.loads(requests.get(base_url + activity_url, headers = headers).content)
+        team_dict = {}
+        choice = ''
+
+        for entry in r['Response']['entries']:
+            try:
+                team = str(entry['values']['team']['basic']['value'])
+            except KeyError:
+                continue
+            name = entry['player']['destinyUserInfo']['displayName']
+
+            if team not in team_dict:
+                team_dict[team] = []
+            team_dict[team].append(name)
+
+            if user == name:
+                choice = team
+
+        if choice != '':
+            for teammate in team_dict[choice]:
+                if teammate != user:
+                    output.writerow((instance, teammate))
